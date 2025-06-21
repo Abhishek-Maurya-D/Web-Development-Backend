@@ -1,8 +1,9 @@
 // Make sure package.json includes: { "type": "module" }
-
+// require('dotenv').config()
+import 'dotenv/config'
 import express from 'express';
 const app = express();
-const port = 8000;
+const port = process.env.PORT || 8000;
 
 // Middleware to parse JSON
 app.use(express.json());
