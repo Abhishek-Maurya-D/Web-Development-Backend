@@ -1,0 +1,6 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"134.641\"}","timestamp":"2025-06-21T05:21:21.288Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"38.091\"}","timestamp":"2025-06-21T05:21:37.195Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"11.748\"}","timestamp":"2025-06-21T05:22:11.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"2.167\"}","timestamp":"2025-06-21T05:22:24.724Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add a new tea.","timestamp":"2025-06-21T05:24:27.706Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"284.706\"}","timestamp":"2025-06-21T05:24:28.051Z"}
